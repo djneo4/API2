@@ -1,0 +1,35 @@
+{
+"OrderID":100,
+"Adress":"Emilio mitre 1445",
+"Status":"en preparacion",
+"Articles":[
+	{
+
+	"name":"nootebok",
+	"Quantity":2,
+	"Dangerous":false
+
+        },
+
+	{
+
+	"name":"telefono",
+	"Quantity":3,
+	"Dangerous":false
+
+        },
+
+	{
+
+	"name":"bateria",
+	"Quantity":4,
+	"Dangerous":true
+
+        }	
+	
+	
+
+          ]
+
+
+}
